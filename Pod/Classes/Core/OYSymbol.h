@@ -7,6 +7,7 @@
 
 extern const struct OYSymbol {
 __unsafe_unretained NSString *const Add;
+    __unsafe_unretained NSString *const Clap;
     __unsafe_unretained NSString *const Close;
     __unsafe_unretained NSString *const Cloud;
     __unsafe_unretained NSString *const Done;
