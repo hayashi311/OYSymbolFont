@@ -1,0 +1,18 @@
+PODS:
+  - OYSymbolFont (0.1.0):
+    - OYSymbolFont/Core (= 0.1.0)
+    - OYSymbolFont/UI (= 0.1.0)
+  - OYSymbolFont/Core (0.1.0)
+  - OYSymbolFont/UI (0.1.0)
+
+DEPENDENCIES:
+  - OYSymbolFont (from `../`)
+
+EXTERNAL SOURCES:
+  OYSymbolFont:
+    :path: ../
+
+SPEC CHECKSUMS:
+  OYSymbolFont: fba246c7ea02996596f716b7132e7277fef795c7
+
+COCOAPODS: 0.36.0
