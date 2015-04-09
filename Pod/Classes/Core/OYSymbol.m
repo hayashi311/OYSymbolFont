@@ -6,6 +6,20 @@
 #import "OYSymbol.h"
 
 const struct OYSymbol OYSymbol = {
-        .Setting = @"setting"
+        .Add = @"add",
+        .Close = @"close",
+        .Cloud = @"cloud",
+        .Done = @"done",
+        .Facebook = @"facebook",
+        .Heart = @"heart",
+        .Inbox = @"inbox",
+        .Laptop = @"laptop",
+        .Mail = @"mail",
+        .Pen = @"pen",
+        .Right = @"right",
+        .Safari = @"safari",
+        .Setting = @"setting",
+        .Smartphone = @"smartphone",
+        .Twitter = @"twitter",
+        .Upload = @"upload",
 };
-
