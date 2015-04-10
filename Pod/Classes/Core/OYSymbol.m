@@ -7,6 +7,7 @@
 
 const struct OYSymbol OYSymbol = {
         .Add = @"add",
+        .ArrowReflesh = @"arrow-reflesh",
         .Clap = @"clap",
         .Close = @"close",
         .Cloud = @"cloud",
