@@ -8,6 +8,8 @@
 const struct OYSymbol OYSymbol = {
         .Add = @"add",
         .ArrowReflesh = @"arrow-reflesh",
+        .Chat = @"chat",
+        .Checked = @"checked",
         .Clap = @"clap",
         .Close = @"close",
         .Cloud = @"cloud",
@@ -17,6 +19,7 @@ const struct OYSymbol OYSymbol = {
         .Heart = @"heart",
         .Inbox = @"inbox",
         .Laptop = @"laptop",
+        .List = @"list",
         .Mail = @"mail",
         .PaperPlane = @"paper-plane",
         .Pen = @"pen",
@@ -26,4 +29,7 @@ const struct OYSymbol OYSymbol = {
         .Smartphone = @"smartphone",
         .Twitter = @"twitter",
         .Upload = @"upload",
+        .User01 = @"user01",
+        .User02 = @"user02",
+        .User03 = @"user03",
 };

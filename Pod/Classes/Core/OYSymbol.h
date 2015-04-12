@@ -8,6 +8,8 @@
 extern const struct OYSymbol {
 __unsafe_unretained NSString *const Add;
     __unsafe_unretained NSString *const ArrowReflesh;
+    __unsafe_unretained NSString *const Chat;
+    __unsafe_unretained NSString *const Checked;
     __unsafe_unretained NSString *const Clap;
     __unsafe_unretained NSString *const Close;
     __unsafe_unretained NSString *const Cloud;
@@ -17,6 +19,7 @@ __unsafe_unretained NSString *const Add;
     __unsafe_unretained NSString *const Heart;
     __unsafe_unretained NSString *const Inbox;
     __unsafe_unretained NSString *const Laptop;
+    __unsafe_unretained NSString *const List;
     __unsafe_unretained NSString *const Mail;
     __unsafe_unretained NSString *const PaperPlane;
     __unsafe_unretained NSString *const Pen;
@@ -26,6 +29,9 @@ __unsafe_unretained NSString *const Add;
     __unsafe_unretained NSString *const Smartphone;
     __unsafe_unretained NSString *const Twitter;
     __unsafe_unretained NSString *const Upload;
+    __unsafe_unretained NSString *const User01;
+    __unsafe_unretained NSString *const User02;
+    __unsafe_unretained NSString *const User03;
     
 } OYSymbol;
 
