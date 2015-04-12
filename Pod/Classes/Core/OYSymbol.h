@@ -29,9 +29,6 @@ __unsafe_unretained NSString *const Add;
     __unsafe_unretained NSString *const Smartphone;
     __unsafe_unretained NSString *const Twitter;
     __unsafe_unretained NSString *const Upload;
-    __unsafe_unretained NSString *const User01;
-    __unsafe_unretained NSString *const User02;
-    __unsafe_unretained NSString *const User03;
     
 } OYSymbol;
 

@@ -29,7 +29,4 @@ const struct OYSymbol OYSymbol = {
         .Smartphone = @"smartphone",
         .Twitter = @"twitter",
         .Upload = @"upload",
-        .User01 = @"user01",
-        .User02 = @"user02",
-        .User03 = @"user03",
 };
